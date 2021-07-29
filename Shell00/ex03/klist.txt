@@ -1,0 +1,5 @@
+Credentials cache: API:AF8AA5AB-8FDA-4DEB-9CC5-7EAF8A4DC507
+        Principal: clora-ro@42LYON.FR
+
+  Issued                Expires               Principal
+Jul  5 14:18:45 2021  Jul  6 14:18:45 2021  krbtgt/42LYON.FR@42LYON.FR
