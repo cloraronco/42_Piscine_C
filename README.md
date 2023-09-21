@@ -7,3 +7,5 @@ Ces exercices, de complexité croissante, étaient à réaliser en langage C.
 C'était ma première expérience avec la programmation.
 
 Les rush sont des projets à faire par gorupe de trois le week-end.
+
+Les sujets sont disponibles dans chaque dossier.
